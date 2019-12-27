@@ -5,6 +5,6 @@ import { View, Image } from 'react-native';
 
 export default function components() {
   return (
-      <Image></Image>                
+    <Image>                 
   );
 }
